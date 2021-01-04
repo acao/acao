@@ -16,6 +16,8 @@ I work on all of these in my free time, like most of the open source contributor
 
 ## About Me
 
+- **prounouns:** she/her, they/them
+- **looking to collaborate with:** anyone who wants to help support the above projects as a contributor or even co-maintainer
 - [website](https://rikki.dev)
 - [twitter](https://twitter.com/rikki-js)
 - [discord](https://discord.gg/RfY2dvra) (best place to reach me! use public channels for support so everyone can learn)
