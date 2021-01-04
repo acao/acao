@@ -7,10 +7,10 @@ With great pleasure, I help to co-maintain [graphql](graphql.com) dev tooling! *
 
 ## Projects
 
-- [graphiql LSP monorepo](https://github.com/graphql/graphiql#readme)
-- [vscode-graphql](https://github.com/graphql/vscode-graphql#readme)
-- [graphql-playground](https://github.com/graphql/graphql-playground#readme)
-- [express-graphql](https://github.com/graphql/express-graphql#readme)
+- [`graphiql` LSP monorepo](https://github.com/graphql/graphiql#readme)
+- [`vscode-graphql`](https://github.com/graphql/vscode-graphql#readme)
+- [`graphql-playground`](https://github.com/graphql/graphql-playground#readme)
+- [`express-graphql`](https://github.com/graphql/express-graphql#readme)
 
 I work on all of these in my free time, like most of the open source contributors in the graphql community!
 
@@ -26,7 +26,7 @@ I work on all of these in my free time, like most of the open source contributor
 
 ## Past Clientele
 
-- Cleveland Clinic - AppointmentPass Kiosk system
+- Cleveland Clinic - Center for Clinical Solutions - AppointmentPass Kiosk system
 - Hilton Digital - (TekSystems)
 - NBC Digital - (gorilla logic) - nbc.com
 - Centers for Medicaid and Medicare (Flexion Inc) - iQies and new Medicaid/Medicare patient & provider database and enrollment system
