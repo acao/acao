@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hi there 👋 I'm *Rikki* ~ :sparkles:
+
+I'm *the* Official GraphQL Mermaid :mermaid:
+With great pleasure, I help to co-maintain [graphql](graphql.com) dev tooling! *especially* language tooling.
+
+<img src="https://i.imgflip.com/4sgrvk.jpg" title="made at imgflip.com"/>
+
+## Projects
+
+- [graphiql LSP monorepo](https://github.com/graphql/graphiql#readme)
+- [vscode-graphql](https://github.com/graphql/vscode-graphql#readme)
+- [graphql-playground](https://github.com/graphql/graphql-playground#readme)
+- [express-graphql](https://github.com/graphql/express-graphql#readme)
+
+I work on all of these in my free time, like most of the open source contributors in the graphql community!
+
+## About Me
+
+- [website](https://rikki.dev)
+- [twitter](https://twitter.com/rikki-js)
+- [discord](https://discord.gg/RfY2dvra) (best place to reach me! use public channels for support so everyone can learn)
+- [calendly](https://calendly.com/rikki-graphql) - in many cases, a public discord conversation or public live coding session via discord/etc might be better!
 
 <!--
 **acao/acao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
