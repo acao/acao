@@ -28,8 +28,9 @@ I work on all of these in my free time, like most of the open source contributor
 
 - Cleveland Clinic - Center for Clinical Solutions - AppointmentPass Kiosk system
 - Hilton Digital - (TekSystems)
+- IBM/HCL UrbanCode Velocity
 - NBC Digital - (gorilla logic) - nbc.com
-- Centers for Medicaid and Medicare (Flexion Inc) - iQies and new Medicaid/Medicare patient & provider database and enrollment system
+- Centers for Medicaid & Medicare (Flexion Inc) - iQies and new Medicaid/Medicare patient & provider database and enrollment system
 - Equity Engineering
 
 <!--
