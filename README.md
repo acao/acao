@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm *Rikki* ~ :sparkles:
 
-*pronouns*: She/Her, or they/them is fine
-*location*: US
+**pronouns**: She/Her, or they/them is fine
+
+**location**: US
 
 I used to maintain the GraphiQL project and other GraphQL Foundation OSS projects. I have removed myself from the projects.
 
