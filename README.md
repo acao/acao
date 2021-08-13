@@ -2,8 +2,11 @@
 
 **pronouns**: She/Her, or they/them is fine
 
-**location**: US
+**location**: DE
 
-I made the mistake of introducing a human rights agenda to the GraphiQL repository, which led to a harassment and doxxing campaign
 
-The only mistake was that I didn't talk to my co-maintainers first, and now they are being asked to take sides in an apartheid situation they know nothing about. Please leave my colleauges be. They had nothing to do with this.
+I help maintain `graphiql`, `graphql-playground`, the graphql LSP and `vscode-graphql`
+
+I love writing node.js and react applications
+
+Learning rust and studying various approaches to improving the performance of graphql language server and web IDE runtimes
