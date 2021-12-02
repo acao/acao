@@ -2,11 +2,9 @@
 
 **pronouns**: She/Her, or they/them is fine
 
-**location**: DE
+**location**: Berlin, DE
 
 
-I help maintain `graphiql`, `graphql-playground`, the graphql LSP and `vscode-graphql`
+I created `monaco-graphql`. I converted `graphiql` into a monorepo, and I help maintain `graphiql`, `graphql-playground`, the `graphql-language-service-server` and `vscode-graphql`. 
 
-I love writing node.js and react applications
-
-Learning rust and studying various approaches to improving the performance of graphql language server and web IDE runtimes
+I am an unpaid volunteer maintainer with a whole family and personal life, so please be patient. Co-maintainers and contributors welcome. See pinned issues in our repositories for roadmaps :)
