@@ -7,4 +7,4 @@
 
 I created `monaco-graphql`. I converted `graphiql` into a monorepo, and I help maintain `graphiql`, `graphql-playground`, the `graphql-language-service-server` and `vscode-graphql`. 
 
-I am an unpaid volunteer maintainer with a whole family and personal life, so please be patient. Co-maintainers and contributors welcome. See pinned issues in our repositories for roadmaps :)
+I need a replacement or three! If you want to help bottomline any of these projects, let us know!
