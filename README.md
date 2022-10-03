@@ -1,3 +1,5 @@
+![soon to return Brazillian president Lula da Silva and MST supporters](./lula.JPG)
+
 ### Hi there 👋 I'm *Rikki* ~ :sparkles:
 
 **Pronouns**: She/Her, or they/them is fine
