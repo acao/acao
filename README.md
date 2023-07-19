@@ -15,7 +15,8 @@
   * [`graphql-language-service`](https://github.org/graphql/graphiql/blob/main/packages/graphql-language-service)
   * [`vscode-graphql`](https://github.org/graphql/graphiql/blob/main/packages/vscode-graphql)
   * [`codemirror-graphql`](https://github.org/graphql/graphiql/blob/main/packages/codemirror-graphql) and everything else in our beloved monorepo. 
-* I created [A Soil Organic Carbon Estimation tool](https://geoblaze-gsoc.vercel.app), the first open source project of it's kind, to demonstrate the power of browser side raster analysis using [`geoblaze`](https://geoblaze.io), and to democratize access to this data.
+* I've created [`codemirror-json-schema`](https://github.org/acao/codemirror-json-schema) mode with @imolorhe with support for json4 and json5!
+* I've created [A Soil Organic Carbon Estimation tool](https://geoblaze-gsoc.vercel.app), to demonstrate the power of browser side raster analysis using [`geoblaze`](https://geoblaze.io), and to democratize access to this important climate data.
 * I regularly contribute documentation, bugfixes and improvements to many other open source projects that I use!
 * I provide instructive articles in my areas of speciality and interest on my [engineering blog](https://rikki.dev/posts)
 
