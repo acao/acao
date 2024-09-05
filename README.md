@@ -4,12 +4,12 @@
 
 **Location**: Berlin, Germany
 
-**Hobbies**: Dancing, Poetry, Plants, Climbing, Mischief, Mermaid things, Geospatial analysis for the earth!
+**Hobbies**: Dancing, Poetry, Plants, Climbing, Mischief, Mermaid things, Geospatial for earth and people!
 
 **Projects**
 * I've created [`codemirror-json-schema`](https://github.com/acao/codemirror-json-schema) mode with @imolorhe with support for json4 and json5! It is the first general purpose open source web IDE with json schema support for json5
 * I created [`monaco-graphql`](https://github.com/graphql/graphiql/blob/main/packages/monaco-graphql) which provides full language features for graphql files and json variables for `monaco-editor`. 
-* Since 2018 I've helped to maintain:
+* Since 2018 I've worked with GraphQL Foundation the lead maintainer of these widely used projects:
   * [`graphiql`](https://github.com/graphql/graphiql/blob/main/packages/graphiql)
   * [`graphql-language-service-server`](https://github.com/graphql/graphiql/blob/main/packages/graphql-language-service-server)
   * [`graphql-language-service-cli`](https://github.com/graphql/graphiql/blob/main/packages/graphql-language-service-cli) (also known as `graphql-lsp`)
