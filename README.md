@@ -2,7 +2,7 @@
 
 **Pronouns**: She/Her, or they/them is fine
 
-**Location**: Berlin, Germany
+**Location**: Greater Cleveland, Ohio, US
 
 **Hobbies**: Dancing, Poetry, Plants, Climbing, Mischief, Mermaid things, Geospatial for earth and people!
 
